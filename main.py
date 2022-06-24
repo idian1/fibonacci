@@ -19,7 +19,7 @@ else:
 # Al ser la secuencia de fibonacci la suma de los 2 numeros anteriores, lo defini como una suma de a + b donde al
 # terminar la suma, reemplaza "a" por el numero de "b" y "b" es reemplazado por el total de la suma,
 # repitiendose esto n-2 veces.
-# esto por que la primera suma se genera con a = 0 y b = 1 lo que genera que la cadena comience desde el segundo 1
+# esto por que la primera suma se genera con a = 0 y b = 1 lo que hace que la cadena comience desde el segundo 1
 # de la secuencia a la cual le faltarian los primeros 2 digitos "0" y "1"
 # Para solucionarlo defini que si el numero ingresado por el usuario es 0 mostrara como resultado el
 # primer numero de la cadena "0" y si se ingresa el numero "1" se muestran los numeros "0" y "1"
